@@ -1,0 +1,131 @@
+.gradient__backg {
+    background: white;
+    box-sizing: content-box;
+    width: 800px;
+    height: 500px;
+    top: 300px;
+  
+  }
+  
+  .olx__feature-box {
+    font-size: 25px;
+    line-height: 27px;
+    position: relative;
+    top: 20px;
+    box-sizing: content-box;
+    padding: 6px;
+    width: 87px;
+    left: 10px;
+  
+    background-color: rgb(255, 255, 0);
+  }
+  
+  .olx__feature-image img {
+    width: 17px;
+    height: 16px;
+    margin: 1rem;
+    margin-block-start: 10rem;
+  }
+  
+  .olx__feature-imag img {
+    width: 700px;
+    height: 385px;
+    margin: 2rem;
+    position: relative;
+    right: 160px;
+    top: -210px;
+  }
+  
+  .olx__feature-images img{
+    width: 17px;
+    height: 16px;
+    position: relative;
+    top: -500px;
+    right: -400px;
+  }
+  
+  .olx__feature-pa p {
+    position: absolute;
+    width: 251px;
+    height: 36px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color:  #000000;
+    position: relative;
+    left: 600px;
+    top: -660px;
+  }
+  
+  .olx__feature-par p{
+    position: absolute;
+    width: 316px;
+    height: 76px;
+    left: 600px;
+    top: 90px;
+  
+    font-family: 'IBM Plex Sans Thai Looped';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 125.02%;
+  }
+  
+  .olx__feature-parag p {
+    position: absolute;
+    width: 307px;
+    height: 225px;
+    left: 610px;
+    top: 250px;
+  }
+  
+  .olx__feature-buy4 img {
+    width: 139px;
+    height: 103px;
+    position: relative;
+    left: 580px;
+    top: -290px;
+  }
+  
+  .olx__feature-cart img {
+    width: 140px;
+    height: 109px;
+    position: relative;
+    left: 712px;
+    top: -398px;
+  }
+  
+  .olx__feature-rupee img {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    top: -580px;
+    left: 608px;
+  }
+  
+  .olx__feature-rupee p {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    top: -567px;
+    left: 624px;
+    font-size: large;
+  }
+  
+  .olx__feature-fav img,
+  .olx__feature-fav img{
+    position: relative;
+    width: 19px;
+    height: 18px;
+    top: -966px;
+    left: 880px;
+  }
+  
+  .olx__feature-fav a {
+    position: relative;
+    top: -969px;
+    left: 892px;
+    font-size: large;
+  }
+  
+  
